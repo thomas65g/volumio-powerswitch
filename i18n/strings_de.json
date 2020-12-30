@@ -1,0 +1,12 @@
+{
+  "POWERSWITCH_TITLE":"Power Switch",
+  "OUTPUT":"Output",
+  "PORTA": "Port A",
+  "PORTB": "Port B",
+  "PORT_DOC": "Geben Sie den GPIO-Port des Relais auf dem device an",
+  "PAUSE": "Pause",
+  "PAUSE_DOC": "Pause zwischen den einzelnen Relaisschaltungen",
+  "DELAY": "Delay",
+  "DELAY_DOC": "Nach dieser Zeit der Stille werden die Relaise auf OFF geschaltet",
+  "SAVE":"Save"
+}

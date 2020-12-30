@@ -1,0 +1,18 @@
+{
+	"portA": {
+		"type": "number",
+		"value": 24
+	},
+	"portB": {
+		"type": "number",
+		"value": 25
+	},
+	"delay": {
+		"type": "number",
+		"value": 1000
+	},
+	"pause": {
+		"type": "number",
+		"value": 500
+	}
+}

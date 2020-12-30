@@ -1,0 +1,12 @@
+{
+  "POWERSWITCH_TITLE":"Power Switch",
+  "OUTPUT":"Output",
+  "PORTA": "Port A",
+  "PORTB": "Port B",
+  "PORT_DOC": "Output GPIO port on your device of the relais",
+  "PAUSE": "Pause",
+  "PAUSE_DOC": "Pause between the individual relay switchings",
+  "DELAY": "Delay",
+  "DELAY_DOC": "Wait for xx ms after pause/stop to turn OFF",
+  "SAVE":"Save"
+}
